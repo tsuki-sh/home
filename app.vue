@@ -6,7 +6,7 @@ useHead({
 
 <template>
   <main h-full w-full flex="~ col center">
-    <p color="white" font-serif text-8>Tsuki</p>
+    <TheTsuki />
   </main>
 </template>
 
